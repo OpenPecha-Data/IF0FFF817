@@ -1,0 +1,241 @@
+id: IF0FFF817
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T19:49:29.267843'
+last_modified: '2022-05-27T19:49:29.267856'
+parser: null
+source_metadata:
+  title: 'Śāntideva: Bodhicaryāvatāra'
+  language: en
+  base:
+    f6B24:
+      title: Title
+      base_file: f6B24.txt
+      order: 1
+    f7C8F:
+      title: Preface
+      base_file: f7C8F.txt
+      order: 2
+    f7CE5:
+      title: CI_Verses 1-20
+      base_file: f7CE5.txt
+      order: 3
+    f3577:
+      title: CI_Verses 21-36
+      base_file: f3577.txt
+      order: 4
+    fA149:
+      title: CII_Verses 1-20
+      base_file: fA149.txt
+      order: 5
+    f6293:
+      title: CII_Verses 21-40
+      base_file: f6293.txt
+      order: 6
+    f767E:
+      title: CII_Verses 41-60
+      base_file: f767E.txt
+      order: 7
+    f8ABE:
+      title: CII_Verses 61-66
+      base_file: f8ABE.txt
+      order: 8
+    f2B2D:
+      title: CIII_Verses 1-20
+      base_file: f2B2D.txt
+      order: 9
+    fFABB:
+      title: CIII_Verses 21-33
+      base_file: fFABB.txt
+      order: 10
+    f1B56:
+      title: CIV_Verses 1-20
+      base_file: f1B56.txt
+      order: 11
+    f5682:
+      title: CIV_Verses 21-40
+      base_file: f5682.txt
+      order: 12
+    fE33B:
+      title: CIV_Verses 41-48
+      base_file: fE33B.txt
+      order: 13
+    fFFEF:
+      title: CV_Verses 1-20
+      base_file: fFFEF.txt
+      order: 14
+    fE1F4:
+      title: CV_Verses 21-40
+      base_file: fE1F4.txt
+      order: 15
+    f2711:
+      title: CV_Verses 41-60
+      base_file: f2711.txt
+      order: 16
+    fC4BD:
+      title: CV_Verses 61-80
+      base_file: fC4BD.txt
+      order: 17
+    fB9D2:
+      title: CV_Verses 81-100
+      base_file: fB9D2.txt
+      order: 18
+    f5613:
+      title: CV_Verses 101-109
+      base_file: f5613.txt
+      order: 19
+    fD292:
+      title: CVI_Verses 1-20
+      base_file: fD292.txt
+      order: 20
+    f33B2:
+      title: CVI_Verses 21-40
+      base_file: f33B2.txt
+      order: 21
+    fCB25:
+      title: CVI_Verses 41-60
+      base_file: fCB25.txt
+      order: 22
+    f6D38:
+      title: CVI_Verses 61-80
+      base_file: f6D38.txt
+      order: 23
+    fD3D0:
+      title: CVI_Verses 81-100
+      base_file: fD3D0.txt
+      order: 24
+    fCA00:
+      title: CVI_Verses 101-120
+      base_file: fCA00.txt
+      order: 25
+    f62A2:
+      title: CVI_Verses 121-134
+      base_file: f62A2.txt
+      order: 26
+    f8499:
+      title: CVII_Verses 1-20
+      base_file: f8499.txt
+      order: 27
+    f8DD1:
+      title: CVII_Verses 21-40
+      base_file: f8DD1.txt
+      order: 28
+    fD806:
+      title: CVII_Verses 41-60
+      base_file: fD806.txt
+      order: 29
+    f122C:
+      title: CVII_Verses 61-75
+      base_file: f122C.txt
+      order: 30
+    f4B96:
+      title: CVIII_Verses 1-20
+      base_file: f4B96.txt
+      order: 31
+    fAE79:
+      title: CVIII_Verses 21-40
+      base_file: fAE79.txt
+      order: 32
+    fF799:
+      title: CVIII_Verses 41-60
+      base_file: fF799.txt
+      order: 33
+    fDE29:
+      title: CVIII_Verses 61-80
+      base_file: fDE29.txt
+      order: 34
+    f9DE4:
+      title: CVIII_Verses 81-100
+      base_file: f9DE4.txt
+      order: 35
+    f6BE5:
+      title: CVIII_Verses 101-120
+      base_file: f6BE5.txt
+      order: 36
+    fD112:
+      title: CVIII_Verses 121-140
+      base_file: fD112.txt
+      order: 37
+    fAA27:
+      title: CVIII_Verses 141-160
+      base_file: fAA27.txt
+      order: 38
+    fB2BE:
+      title: CVIII_Verses 161-180
+      base_file: fB2BE.txt
+      order: 39
+    f5446:
+      title: CVIII_Verses 181-186
+      base_file: f5446.txt
+      order: 40
+    fBA8F:
+      title: CIX_Verses 1-20
+      base_file: fBA8F.txt
+      order: 41
+    fD969:
+      title: CIX_Verses 21-40
+      base_file: fD969.txt
+      order: 42
+    fED94:
+      title: CIX_Verses 41-60
+      base_file: fED94.txt
+      order: 43
+    f1895:
+      title: CIX_Verses 61-80
+      base_file: f1895.txt
+      order: 44
+    f552F:
+      title: CIX_Verses 81-100
+      base_file: f552F.txt
+      order: 45
+    f888B:
+      title: CIX_Verses 101-120
+      base_file: f888B.txt
+      order: 46
+    f7CED:
+      title: CIX_Verses 121-140
+      base_file: f7CED.txt
+      order: 47
+    f1707:
+      title: CIX_Verses 141-160
+      base_file: f1707.txt
+      order: 48
+    f9EB9:
+      title: CIX_Verses 161-168
+      base_file: f9EB9.txt
+      order: 49
+    fEA78:
+      title: CX_Verses 1-20
+      base_file: fEA78.txt
+      order: 50
+    fA6A4:
+      title: CX_Verses 21-40
+      base_file: fA6A4.txt
+      order: 51
+    f2D94:
+      title: CX_Verses 41-58
+      base_file: f2D94.txt
+      order: 52
+    f05AC:
+      title: Colophon
+      base_file: f05AC.txt
+      order: 53
+  chapter_to_tile:
+    CI: 'Chapter 1: Bodhicittānuśaṃsaḥ'
+    CII: 'Chapter 2: Pāpadeśanā'
+    CIII: 'Chapter 3: Bodhicittaparigraho'
+    CIV: 'Chapter 4: Bodhicittāpramādo'
+    CV: 'Chapter 5: Saṃprajanyarakṣaṇaḥ'
+    CVI: 'Chapter 6: Kṣāntipāramitā'
+    CVII: 'Chapter 7: Vīryapāramitā'
+    CVIII: 'Chapter 8: Dhyānapāramitā'
+    CIX: 'Chapter 9: Prajñāpāramitā'
+    CX: 'Chapter 10: Pariṇāmanā'
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
